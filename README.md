@@ -1,10 +1,17 @@
-#New York Taxi Trip Duration Prediction
+**New York Taxi Trip Duration Prediction**
 
-Predicting the duration of a taxi trip will help us optimise transportation infrastructures and traffic control, 
-which will enhance the experience of both passengers and taxi drivers in the
-city.
+The objective of predicting taxi trip durations is to optimize transportation infrastructure and traffic management,
+thereby improving the experience for both passengers and drivers in New York City.
 
-Below given are the outputs received after EDA (Exploratory Data Analysis)
+**Exploratory Data Analysis (EDA):-**
+* Patterns and Temporal Insights: Analysis of trip durations revealed significant patterns across different times of day and days of the week, highlighting peak demand periods and traffic congestion.
+
+* Geospatial and Feature Correlations: Examining the spatial distribution of trip origins and destinations, along with feature correlations (e.g., trip distance, pickup location, weather conditions), provided insights into traffic flow and factors affecting trip duration.
+
+* Outlier and Anomaly Management: Identification and correction of outliers and anomalies ensured the accuracy and reliability of the predictive model.
+
+Outputs :- 
+
 ![image](https://github.com/user-attachments/assets/1648dae2-1be4-4dbc-abbb-4e6f4e1cf090)
 
 ![image](https://github.com/user-attachments/assets/8aa98734-04c8-4a3d-b328-44b917f89751)
